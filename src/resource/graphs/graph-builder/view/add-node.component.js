@@ -1,6 +1,6 @@
 // @flow
 import React from 'react';
-import { withStyles } from '@dealersocket/ds-ui-react/mui/styles';
+import { withStyles } from '@material-ui/styles';
 
 type ExternalProps = {
 };
